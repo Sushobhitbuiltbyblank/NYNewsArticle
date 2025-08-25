@@ -27,4 +27,6 @@ struct NYTEndpoint: APIEndpoint {
             return []
         }
     }
+    //all-sections
+    //7
 }

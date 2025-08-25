@@ -8,15 +8,15 @@
 import Foundation
 
 struct APIRequest {
-    public var baseURL: URL
-    public var path: String
-    public var method: HTTPMethod
-    public var headers: [String: String]
-    public var query: [URLQueryItem]
-    public var body: [String: Any]?
-    public var timeout: TimeInterval
+    var baseURL: URL
+    var path: String
+    var method: HTTPMethod
+    var headers: [String: String]
+    var query: [URLQueryItem]
+    var body: [String: Any]?
+    var timeout: TimeInterval
 
-    public init(
+    init(
         baseURL: URL,
         path: String,
         method: HTTPMethod,

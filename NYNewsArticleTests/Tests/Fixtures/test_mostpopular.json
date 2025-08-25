@@ -1,0 +1,1245 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/afb9fe04-56e4-51e7-a43f-8cc9a1904711",
+      "url": "https://www.nytimes.com/2025/08/21/style/olivia-ferney-travel-rich-clients-tiktok.html",
+      "id": 100000010349378,
+      "asset_id": 100000010349378,
+      "source": "New York Times",
+      "published_date": "2025-08-21",
+      "updated": "2025-08-22 17:37:14",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Travel Agencies and Agents;High Net Worth Individuals;Luxury Goods and Services;Social Media;Ferney, Olivia;Top Tier Travel",
+      "column": null,
+      "byline": "By Guy Trebay",
+      "type": "Article",
+      "title": "They’re Rich, They Travel and They Love to Complain",
+      "abstract": "A Birkin bag overnighted to Capri. A pink Brabus sports car for a Gen Z birthday party. Olivia Ferney, a travel agent to the ultrawealthy, has heard it all.",
+      "des_facet": [
+        "Travel Agencies and Agents",
+        "High Net Worth Individuals",
+        "Luxury Goods and Services",
+        "Social Media"
+      ],
+      "org_facet": [
+        "Top Tier Travel"
+      ],
+      "per_facet": [
+        "Ferney, Olivia"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaking of her clients, Olivia Ferney said that “no” is “not a word they can process.”",
+          "copyright": "Olivia Ferney",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/24/fashion/21st-olivia-ferney-diptych/21st-olivia-ferney-diptych-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/24/fashion/21st-olivia-ferney-diptych/21st-olivia-ferney-diptych-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/24/fashion/21st-olivia-ferney-diptych/21st-olivia-ferney-diptych-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1ac8118b-1f74-5191-953c-7d56655883ad",
+      "url": "https://www.nytimes.com/2025/08/21/opinion/rufo-yarvin-trump-nihilism.html",
+      "id": 100000010351431,
+      "asset_id": 100000010351431,
+      "source": "New York Times",
+      "published_date": "2025-08-21",
+      "updated": "2025-08-22 20:59:19",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Right-Wing Extremism and Alt-Right;Conservatism (US Politics);Progressivism (Theory and Philosophy);Generation Z;United States Politics and Government;Polls and Opinion;Rufo, Christopher F;Yarvin, Curtis;Trump, Donald J",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "The Rise of Right-Wing Nihilism",
+      "abstract": "Rather than conserve or build, some people just want to destroy.",
+      "des_facet": [
+        "Right-Wing Extremism and Alt-Right",
+        "Conservatism (US Politics)",
+        "Progressivism (Theory and Philosophy)",
+        "Generation Z",
+        "United States Politics and Government",
+        "Polls and Opinion"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Rufo, Christopher F",
+        "Yarvin, Curtis",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Irina Rozovsky for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/multimedia/21brooks-pmvb/21brooks-pmvb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/multimedia/21brooks-pmvb/21brooks-pmvb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/multimedia/21brooks-pmvb/21brooks-pmvb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7e25d3aa-1794-5462-be29-ebebf7a1d741",
+      "url": "https://www.nytimes.com/2025/08/18/us/politics/takeaways-trump-zelensky-putin.html",
+      "id": 100000010347067,
+      "asset_id": 100000010347067,
+      "source": "New York Times",
+      "published_date": "2025-08-18",
+      "updated": "2025-08-19 11:57:35",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;United States International Relations;Russian Invasion of Ukraine (2022);Trump, Donald J;Zelensky, Volodymyr;Putin, Vladimir V;Macron, Emmanuel (1977- );Merz, Friedrich;Stubb, Alexander (1968- )",
+      "column": null,
+      "byline": "By Luke Broadwater and Neil MacFarquhar",
+      "type": "Article",
+      "title": "5 Takeaways From Trump’s Meeting With Zelensky and European Leaders",
+      "abstract": "The leaders presented a relatively united front and appeared to agree on the next steps in the effort to halt the fighting between Ukraine and Russia. But much remained unresolved.",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States International Relations",
+        "Russian Invasion of Ukraine (2022)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Zelensky, Volodymyr",
+        "Putin, Vladimir V",
+        "Macron, Emmanuel (1977- )",
+        "Merz, Friedrich",
+        "Stubb, Alexander (1968- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump, President Volodymyr Zelensky of Ukraine, Prime Minister Keir Starmer of Britain and other European Leaders met at the White House on Monday.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/19/multimedia/18dc-takeaways-sub-top-art/19putin-trump-header-wtpq-copy-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/19/multimedia/18dc-takeaways-sub-top-art/19putin-trump-header-wtpq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/19/multimedia/18dc-takeaways-sub-top-art/19putin-trump-header-wtpq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1061beb4-c475-59d4-9d2b-cd5a229da982",
+      "url": "https://www.nytimes.com/2025/08/18/opinion/chat-gpt-mental-health-suicide.html",
+      "id": 100000010336223,
+      "asset_id": 100000010336223,
+      "source": "New York Times",
+      "published_date": "2025-08-18",
+      "updated": "2025-08-22 22:26:40",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Artificial Intelligence;Suicides and Suicide Attempts;ChatGPT;Therapy and Rehabilitation;Anxiety and Stress;OpenAI Labs",
+      "column": null,
+      "byline": "By Laura Reiley",
+      "type": "Article",
+      "title": "What My Daughter Told ChatGPT Before She Took Her Life",
+      "abstract": "The medical profession has clear rules and responsibilities. What about the chatbots?",
+      "des_facet": [
+        "Artificial Intelligence",
+        "Suicides and Suicide Attempts",
+        "ChatGPT",
+        "Therapy and Rehabilitation",
+        "Anxiety and Stress"
+      ],
+      "org_facet": [
+        "OpenAI Labs"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Vanessa Saba",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/18reiley-image/18reiley-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/18reiley-image/18reiley-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/18reiley-image/18reiley-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7cb1fdaa-c21e-5598-b5a3-a9dabb612f7c",
+      "url": "https://www.nytimes.com/2025/08/16/us/hiker-dead-snake-tennessee.html",
+      "id": 100000010344374,
+      "asset_id": 100000010344374,
+      "source": "New York Times",
+      "published_date": "2025-08-16",
+      "updated": "2025-08-17 12:13:59",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Snakes;Hikes and Hiking;Parks and Other Recreation Areas;Deaths (Fatalities);Animal Attacks;Savage Gulf State Park (Tenn)",
+      "column": null,
+      "byline": "By Rylee Kirk",
+      "type": "Article",
+      "title": "Hiker in Tennessee Who Picked Up a Venomous Snake Dies After Being Bitten",
+      "abstract": "While thousands of people are bitten by venomous snakes in the United States each year, deaths are uncommon, according to the authorities.",
+      "des_facet": [
+        "Snakes",
+        "Hikes and Hiking",
+        "Parks and Other Recreation Areas",
+        "Deaths (Fatalities)",
+        "Animal Attacks"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Savage Gulf State Park (Tenn)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The authorities said it was believed that a timber rattlesnake bit a man in a Tennessee park last week, leading to his death. ",
+          "copyright": "Megan Varner/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/16/multimedia/16xp-snake/16xp-snake-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/16/multimedia/16xp-snake/16xp-snake-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/16/multimedia/16xp-snake/16xp-snake-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0f80232f-401b-5351-92b9-526171179e70",
+      "url": "https://www.nytimes.com/2025/08/21/nyregion/trump-fraud-james.html",
+      "id": 100000009925517,
+      "asset_id": 100000009925517,
+      "source": "New York Times",
+      "published_date": "2025-08-21",
+      "updated": "2025-08-22 11:20:24",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Attorneys General;New York State Civil Case Against Trump (452564/2022);Frauds and Swindling;Real Estate (Commercial);Appraisals and Valuation (Property);Decisions and Verdicts;Fines (Penalties);Trump, Donald J;James, Letitia;Trump Organization;New York State",
+      "column": null,
+      "byline": "By Jonah E. Bromwich and Ben Protess",
+      "type": "Article",
+      "title": "Divided Court Eliminates Trump’s Half-Billion-Dollar Fine in Fraud Case",
+      "abstract": "New York appeals judges said that the judgment was excessive, but agreed to uphold the case so the appeal could continue.",
+      "des_facet": [
+        "Attorneys General",
+        "New York State Civil Case Against Trump (452564/2022)",
+        "Frauds and Swindling",
+        "Real Estate (Commercial)",
+        "Appraisals and Valuation (Property)",
+        "Decisions and Verdicts",
+        "Fines (Penalties)"
+      ],
+      "org_facet": [
+        "Trump Organization"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "James, Letitia"
+      ],
+      "geo_facet": [
+        "New York State"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The New York attorney general’s office sued Donald Trump and his real estate business in 2022, accusing them of inflating his net worth to obtain favorable loan terms. ",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/01/16/multimedia/00trump-james-split-kcgb-copy/00trump-james-overturn-kcgb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/16/multimedia/00trump-james-split-kcgb-copy/00trump-james-overturn-kcgb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/01/16/multimedia/00trump-james-split-kcgb-copy/00trump-james-overturn-kcgb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e7b36630-72a5-5deb-af9b-bee5d81e31a5",
+      "url": "https://www.nytimes.com/2025/08/21/nyregion/alina-habba-us-attorney-new-jersey.html",
+      "id": 100000010347049,
+      "asset_id": 100000010347049,
+      "source": "New York Times",
+      "published_date": "2025-08-21",
+      "updated": "2025-08-22 15:03:55",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "United States Attorneys;Decisions and Verdicts;Federal Courts (US);United States Politics and Government;Presidential Power (US);Habba, Alina;Bondi, Pamela J;Grace, Desiree L;Trump, Donald J;Brann, Matthew W;Justice Department;New Jersey",
+      "column": null,
+      "byline": "By Tracey Tully and Jonah E. Bromwich",
+      "type": "Article",
+      "title": "Judge Says Habba Has Served as U.S. Attorney Without Legal Authority",
+      "abstract": "Defense lawyers had questioned whether Alina Habba, a Trump loyalist, was legally authorized to run the U.S. attorney’s office in New Jersey.",
+      "des_facet": [
+        "United States Attorneys",
+        "Decisions and Verdicts",
+        "Federal Courts (US)",
+        "United States Politics and Government",
+        "Presidential Power (US)"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Habba, Alina",
+        "Bondi, Pamela J",
+        "Grace, Desiree L",
+        "Trump, Donald J",
+        "Brann, Matthew W"
+      ],
+      "geo_facet": [
+        "New Jersey"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump had named Alina Habba, formerly his personal lawyer, as interim U.S. attorney for New Jersey in March.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/19/multimedia/met-habba-authority-zktc/met-habba-authority-zktc-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/19/multimedia/met-habba-authority-zktc/met-habba-authority-zktc-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/19/multimedia/met-habba-authority-zktc/met-habba-authority-zktc-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/cba70eaf-93b5-5ddb-84e5-962b78da7555",
+      "url": "https://www.nytimes.com/interactive/2025/08/15/upshot/flashback.html",
+      "id": 100000010333669,
+      "asset_id": 100000010333669,
+      "source": "New York Times",
+      "published_date": "2025-08-15",
+      "updated": "2025-08-22 14:40:16",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "internal-disable-fab;Content Type: Quiz",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "Flashback: Your Weekly History Quiz, Aug. 16, 2025",
+      "abstract": "Can you sort 8 historical events?",
+      "des_facet": [
+        "internal-disable-fab",
+        "Content Type: Quiz"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/15/multimedia/flashback-promo-2025-08-16-5/flashback-promo-2025-08-16-5-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/15/multimedia/flashback-promo-2025-08-16-5/flashback-promo-2025-08-16-5-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/15/multimedia/flashback-promo-2025-08-16-5/flashback-promo-2025-08-16-5-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/77ea5d26-09bb-52f7-af4c-3f32be952537",
+      "url": "https://www.nytimes.com/2025/08/21/world/europe/michael-boulos-tiffany-trump-business-deals.html",
+      "id": 100000010330491,
+      "asset_id": 100000010330491,
+      "source": "New York Times",
+      "published_date": "2025-08-21",
+      "updated": "2025-08-22 10:11:58",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "United States Politics and Government;Conflicts of Interest;Corruption (Institutional);Boulos, Michael;Trump, Tiffany (1993- );Boulos, Massad (1971- );Kushner, Jared;Trump, Donald J",
+      "column": null,
+      "byline": "By Justin Scheck, Tariq Panja, Jo Becker and Bradley Hope",
+      "type": "Article",
+      "title": "He Asked Tiffany Trump to Marry Him. Then the Deals Started Coming.",
+      "abstract": "A Times investigation found that Michael Boulos and his family benefited financially from proximity to his in-laws for years.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Conflicts of Interest",
+        "Corruption (Institutional)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Boulos, Michael",
+        "Trump, Tiffany (1993- )",
+        "Boulos, Massad (1971- )",
+        "Kushner, Jared",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael Boulos and his wife, Tiffany Trump, at the Liberty Ball for the inauguration of President Trump’s second term in Washington, in January.",
+          "copyright": "Carlos Barria/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/15/multimedia/00int-boulos-jhfq/00int-boulos-jhfq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/15/multimedia/00int-boulos-jhfq/00int-boulos-jhfq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/15/multimedia/00int-boulos-jhfq/00int-boulos-jhfq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d7c30558-df51-5d6b-9a03-417a827f1289",
+      "url": "https://www.nytimes.com/2025/08/17/us/politics/europe-trump-zelensky-putin.html",
+      "id": 100000010344968,
+      "asset_id": 100000010344968,
+      "source": "New York Times",
+      "published_date": "2025-08-17",
+      "updated": "2025-08-18 11:27:00",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;United States Defense and Military Forces;Russian Invasion of Ukraine (2022);United States International Relations;Defense and Military Forces;Peace Process;Zelensky, Volodymyr;Putin, Vladimir V;Rubio, Marco;Trump, Donald J;Ukraine;Russia;Europe",
+      "column": null,
+      "byline": "By David E. Sanger",
+      "type": "Article",
+      "title": "Zelensky Brings Backup to the White House as Trump Aligns More Closely With Putin",
+      "abstract": "European leaders are joining a trip to Washington to make sure the trans-Atlantic alliance remains intact.",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States Defense and Military Forces",
+        "Russian Invasion of Ukraine (2022)",
+        "United States International Relations",
+        "Defense and Military Forces",
+        "Peace Process"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Zelensky, Volodymyr",
+        "Putin, Vladimir V",
+        "Rubio, Marco",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Ukraine",
+        "Russia",
+        "Europe"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Volodymyr Zelensky of Ukraine arrives in Belgium to take part in a video conference with European leaders in Brussels on Sunday.",
+          "copyright": "Benoit Doppagne/Belga, via Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/17/multimedia/17dc-trump-jphl/17dc-trump-jphl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/17/multimedia/17dc-trump-jphl/17dc-trump-jphl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/17/multimedia/17dc-trump-jphl/17dc-trump-jphl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c4e47400-ac87-5d8a-a90c-0c283e232789",
+      "url": "https://www.nytimes.com/2025/08/17/us/politics/trump-putin-summit-papers-hotel.html",
+      "id": 100000010345487,
+      "asset_id": 100000010345487,
+      "source": "New York Times",
+      "published_date": "2025-08-17",
+      "updated": "2025-08-18 13:28:37",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;United States International Relations;Trump, Donald J;Putin, Vladimir V;National Radio;Russia",
+      "column": null,
+      "byline": "By Katie Rogers",
+      "type": "Article",
+      "title": "Trump Administration Minimizes Summit Papers Left in Hotel",
+      "abstract": "The papers, laying out the sequence of events and including the phone numbers of several officials, were found around 9 a.m. on Friday and sent to NPR by a guest of the hotel.",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States International Relations"
+      ],
+      "org_facet": [
+        "National Radio"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump and President Vladimir V. Putin of Russia in Anchorage on Friday.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/17/multimedia/17trump-news-summit-documents-khfb/17trump-news-summit-documents-khfb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/17/multimedia/17trump-news-summit-documents-khfb/17trump-news-summit-documents-khfb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/17/multimedia/17trump-news-summit-documents-khfb/17trump-news-summit-documents-khfb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e45fa07f-3eb6-5450-ad50-b4e2f776b45a",
+      "url": "https://www.nytimes.com/2025/08/21/opinion/trump-constitution-unitary-executive.html",
+      "id": 100000010352762,
+      "asset_id": 100000010352762,
+      "source": "New York Times",
+      "published_date": "2025-08-21",
+      "updated": "2025-08-21 13:23:00",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Presidential Power (US);Presidents and Presidency (US);Constitution (US);Democracy (Theory and Philosophy);Republican Party;Supreme Court (US);United States",
+      "column": null,
+      "byline": "By David French",
+      "type": "Article",
+      "title": "One Sentence in the Constitution Is Causing America Huge Problems",
+      "abstract": "An amendment that can help save our democracy.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Power (US)",
+        "Presidents and Presidency (US)",
+        "Constitution (US)",
+        "Democracy (Theory and Philosophy)"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by George Douglas; source photographs by Marc Guitard and MCCAIG/Getty Images ",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/21french-newsletter-image/21french-newsletter-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/21french-newsletter-image/21french-newsletter-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/21french-newsletter-image/21french-newsletter-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4b155b0e-7d9c-5819-b818-3f31273a81e8",
+      "url": "https://www.nytimes.com/2025/08/20/opinion/amy-klobuchar-deepfakes.html",
+      "id": 100000010341862,
+      "asset_id": 100000010341862,
+      "source": "New York Times",
+      "published_date": "2025-08-20",
+      "updated": "2025-08-21 11:14:17",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Rumors and Misinformation;Artificial Intelligence;Video Recordings, Downloads and Streaming;Law and Legislation;Regulation and Deregulation of Industry;Computers and the Internet;Social Media;Privacy;Discrimination;United States Politics and Government;X (Formerly Twitter);TikTok (ByteDance);Meta Platforms Inc;United States",
+      "column": null,
+      "byline": "By Amy Klobuchar",
+      "type": "Article",
+      "title": "Amy Klobuchar: What I Didn’t Say About Sydney Sweeney",
+      "abstract": "Deepfakes are getting more realistic and more difficult to stop. Congress needs to take steps now.",
+      "des_facet": [
+        "Rumors and Misinformation",
+        "Artificial Intelligence",
+        "Video Recordings, Downloads and Streaming",
+        "Law and Legislation",
+        "Regulation and Deregulation of Industry",
+        "Computers and the Internet",
+        "Social Media",
+        "Privacy",
+        "Discrimination",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "X (Formerly Twitter)",
+        "TikTok (ByteDance)",
+        "Meta Platforms Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Matthias Brown",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/20klobuchar/20klobuchar-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/20klobuchar/20klobuchar-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/20klobuchar/20klobuchar-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dcc4da17-f298-5b32-b865-0a6cc3a50662",
+      "url": "https://www.nytimes.com/2025/08/17/opinion/trump-speaking-style.html",
+      "id": 100000010333053,
+      "asset_id": 100000010333053,
+      "source": "New York Times",
+      "published_date": "2025-08-17",
+      "updated": "2025-08-20 23:46:13",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Politics and Government;Social Media;English Language;Trump, Donald J;Truth Social (Social Network);X (Formerly Twitter)",
+      "column": null,
+      "byline": "By Adam Aleksic",
+      "type": "Article",
+      "title": "The Insidious Creep of Trump’s Speaking Style",
+      "abstract": "The fact that we’re talking like Donald Trump could mean that we’re starting to think like him as well.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Social Media",
+        "English Language"
+      ],
+      "org_facet": [
+        "Truth Social (Social Network)",
+        "X (Formerly Twitter)"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nadiia Zhelieznova",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/17aleksic/17aleksic-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/17aleksic/17aleksic-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/opinion/17aleksic/17aleksic-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7e1f2009-0135-5974-b7da-a11d4b78a439",
+      "url": "https://www.nytimes.com/2025/08/15/us/politics/trump-putin-meeting-takeaways.html",
+      "id": 100000010344587,
+      "asset_id": 100000010344587,
+      "source": "New York Times",
+      "published_date": "2025-08-15",
+      "updated": "2025-08-16 13:40:50",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;United States International Relations;Russian Invasion of Ukraine (2022);International Relations;Peace Process;Putin, Vladimir V;Trump, Donald J",
+      "column": null,
+      "byline": "By Maggie Haberman and Tyler Pager",
+      "type": "Article",
+      "title": "6 Takeaways From Trump’s Meeting With Putin",
+      "abstract": "While no deal was announced, the Russian leader secured some wins and left on good terms with the U.S. president.",
+      "des_facet": [
+        "United States Politics and Government",
+        "United States International Relations",
+        "Russian Invasion of Ukraine (2022)",
+        "International Relations",
+        "Peace Process"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump meeting President Vladimir V. Putin of Russia along the tarmac in Alaska. They left with no announced deal but a warm rapport.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/15/multimedia/15dc-trump-takeaways/15dc-trump-takeaways-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/15/multimedia/15dc-trump-takeaways/15dc-trump-takeaways-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/15/multimedia/15dc-trump-takeaways/15dc-trump-takeaways-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3b8846a9-cf08-561c-b491-0b2ba4c58e25",
+      "url": "https://www.nytimes.com/2025/08/21/arts/design/smithsonian-trump.html",
+      "id": 100000010354975,
+      "asset_id": 100000010354975,
+      "source": "New York Times",
+      "published_date": "2025-08-21",
+      "updated": "2025-08-22 16:52:59",
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "nytdsection": "arts",
+      "adx_keywords": "United States Politics and Government;Museums;Art;Trump, Donald J;Bunch, Lonnie G III;Smithsonian Institution",
+      "column": null,
+      "byline": "By Zachary Small",
+      "type": "Article",
+      "title": "White House Lists Smithsonian Exhibits It Finds Objectionable",
+      "abstract": "The Trump administration highlighted material dealing with topics like sexuality, slavery and immigration.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Museums",
+        "Art"
+      ],
+      "org_facet": [
+        "Smithsonian Institution"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Bunch, Lonnie G III"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The atrium shared between the American Art Museum and the National Portrait Gallery, two Smithsonian museums whose exhibitions were criticized by the White House.",
+          "copyright": "Alex Wroblewski/Agence France-Presse &mdash; Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/multimedia/21cul-smithsonian-review-czkp/21cul-smithsonian-review-czkp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/multimedia/21cul-smithsonian-review-czkp/21cul-smithsonian-review-czkp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/multimedia/21cul-smithsonian-review-czkp/21cul-smithsonian-review-czkp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/de6209e4-04d2-5bc5-b7e4-f40b349532d0",
+      "url": "https://www.nytimes.com/2025/08/15/opinion/stock-market-advice-investing.html",
+      "id": 100000010324567,
+      "asset_id": 100000010324567,
+      "source": "New York Times",
+      "published_date": "2025-08-15",
+      "updated": "2025-08-17 22:38:21",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Asset Allocation (Personal Finances);Stocks and Bonds;International Trade and World Market;Customs (Tariff);One Big Beautiful Bill Act (2025);United States Politics and Government;United States Economy;Trump, Donald J",
+      "column": null,
+      "byline": "By Burton G. Malkiel",
+      "type": "Article",
+      "title": "The Stock Market Is Getting Scary. Here’s What You Should Do.",
+      "abstract": "There are troubling signs that our stock market may be overheated.",
+      "des_facet": [
+        "Asset Allocation (Personal Finances)",
+        "Stocks and Bonds",
+        "International Trade and World Market",
+        "Customs (Tariff)",
+        "One Big Beautiful Bill Act (2025)",
+        "United States Politics and Government",
+        "United States Economy"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/cae09ee3-0d84-5156-ab4d-316fbc872999",
+      "url": "https://www.nytimes.com/2025/08/16/arts/television/south-park-trump-administration-paramount.html",
+      "id": 100000010340712,
+      "asset_id": 100000010340712,
+      "source": "New York Times",
+      "published_date": "2025-08-16",
+      "updated": "2025-08-19 00:00:11",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Television;Comedy and Humor;United States Politics and Government;Parker, Trey;Stone, Matt;Trump, Donald J;Paramount Global",
+      "column": null,
+      "byline": "By James Poniewozik",
+      "type": "Article",
+      "title": "Eric Cartman, Welcome (for Now) to the Resistance",
+      "abstract": "For decades, “South Park” has been crude, cynical and childish. That may be what makes it perfect for this moment.",
+      "des_facet": [
+        "Television",
+        "Comedy and Humor",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Paramount Global"
+      ],
+      "per_facet": [
+        "Parker, Trey",
+        "Stone, Matt",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The new season of “South Park” has gone hard after President Trump and the creators’ own corporate benefactors.",
+          "copyright": "Comedy Central",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/19/arts/18cul-southpark-notebook-hj/18cul-southpark-notebook-hj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/19/arts/18cul-southpark-notebook-hj/18cul-southpark-notebook-hj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/19/arts/18cul-southpark-notebook-hj/18cul-southpark-notebook-hj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6686fd7e-06c9-5432-9db2-f676f2652839",
+      "url": "https://www.nytimes.com/2025/08/21/us/alligator-alcatraz-florida-ruling.html",
+      "id": 100000010338791,
+      "asset_id": 100000010338791,
+      "source": "New York Times",
+      "published_date": "2025-08-21",
+      "updated": "2025-08-22 15:53:58",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Immigration Detention;Illegal Immigration;Decisions and Verdicts;Federal Courts (US);United States Politics and Government;Environment;Wetlands;Williams, Kathleen M;Trump, Donald J;Alligator Alcatraz (Fla);Florida;Everglades (Fla)",
+      "column": null,
+      "byline": "By Patricia Mazzei and David C. Adams",
+      "type": "Article",
+      "title": "Judge Orders That ‘Alligator Alcatraz’ Detention Center Be Shut Down for Now",
+      "abstract": "A judge ruled that the state and federal governments acted illegally by not conducting an environmental review before building the center in the Florida Everglades.",
+      "des_facet": [
+        "Immigration Detention",
+        "Illegal Immigration",
+        "Decisions and Verdicts",
+        "Federal Courts (US)",
+        "United States Politics and Government",
+        "Environment",
+        "Wetlands"
+      ],
+      "org_facet": [
+        "Alligator Alcatraz (Fla)"
+      ],
+      "per_facet": [
+        "Williams, Kathleen M",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Florida",
+        "Everglades (Fla)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An immigration detention center in the Florida Everglades, known as Alligator Alcatraz.",
+          "copyright": "Rebecca Blackwell/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/multimedia/00nat-alcatraz-ruling-fkzp/00nat-alcatraz-ruling-fkzp-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/multimedia/00nat-alcatraz-ruling-fkzp/00nat-alcatraz-ruling-fkzp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/21/multimedia/00nat-alcatraz-ruling-fkzp/00nat-alcatraz-ruling-fkzp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ec1223f0-42b3-58f7-b73b-f69590017a68",
+      "url": "https://www.nytimes.com/2025/08/19/realestate/arkansas-white-housing-return-to-land.html",
+      "id": 100000010335871,
+      "asset_id": 100000010335871,
+      "source": "New York Times",
+      "published_date": "2025-08-19",
+      "updated": "2025-08-21 17:47:33",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Civil Rights and Liberties;United States Politics and Government;Race and Ethnicity;Discrimination;Law and Legislation;Whites;Right-Wing Extremism and Alt-Right;Fringe Groups and Movements;Politics and Government;Real Estate and Housing (Residential);audio-neutral-informative;audio-neutral-immersive;Return to the Land;Arkansas;United States",
+      "column": null,
+      "byline": "By Debra Kamin and Whitten Sabbatini",
+      "type": "Article",
+      "title": "The Founders of This New Development Say You Must Be White to Live There",
+      "abstract": "Housing rights experts say a community restricted to white residents is illegal, but the creators believe they could win a potential challenge in court in the current political climate.",
+      "des_facet": [
+        "Civil Rights and Liberties",
+        "United States Politics and Government",
+        "Race and Ethnicity",
+        "Discrimination",
+        "Law and Legislation",
+        "Whites",
+        "Right-Wing Extremism and Alt-Right",
+        "Fringe Groups and Movements",
+        "Politics and Government",
+        "Real Estate and Housing (Residential)",
+        "audio-neutral-informative",
+        "audio-neutral-immersive"
+      ],
+      "org_facet": [
+        "Return to the Land"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Arkansas",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Eric Orwoll, president of Return to the Land, said his group can reject an applicant “who doesn’t present as white.”",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2025/08/17/multimedia/17re-returntotheland-01-kwzj/17re-returntotheland-01-kwzj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/17/multimedia/17re-returntotheland-01-kwzj/17re-returntotheland-01-kwzj-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2025/08/17/multimedia/17re-returntotheland-01-kwzj/17re-returntotheland-01-kwzj-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
