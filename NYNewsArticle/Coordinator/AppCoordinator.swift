@@ -9,44 +9,45 @@ import SwiftUI
 import Combine
 
 @MainActor
-final class AppCoordinator: RootCoordinator {
+final class AppCoordinator: ObservableObject {
     @Published var path = NavigationPath()
 
     // DI
     private let config: ConfigManaging
-    private let fetchUseCase: FetchMostViewedUseCase
+    private let fetch: FetchMostViewedUseCase
 
-    // Designated init
-    init(config: ConfigManaging, fetchUseCase: FetchMostViewedUseCase) {
+    init(config: ConfigManaging, fetch: FetchMostViewedUseCase) {
         self.config = config
-        self.fetchUseCase = fetchUseCase
+        self.fetch = fetch
     }
 
-    // Convenience init
-    convenience init() {
-        let configuration = ConfigManager.shared
-        let network: NetworkManaging = NetworkManager()
-        let repository = DefaultArticlesRepository(
-            network: network,
-            config: configuration
-        )
-        let mostViewedUserCase  = DefaultFetchMostViewedUseCase(repository: repository)
-        self.init(config: configuration, fetchUseCase: mostViewedUserCase)
+    // Navigation API
+    func push(_ route: Route) {
+        path.append(route)
+    }
+    
+    func pop(){
+        guard !path.isEmpty else { return }; path.removeLast()
+    }
+    
+    func popToRoot(){
+        path = NavigationPath()
     }
 
-    // Provide the feature content as AnyView
-    func buildContent(using path: Binding<NavigationPath>) -> AnyView {
-        let view = ArticlesListView(
+    // Factory helpers (optional, keeps body tidy)
+    @ViewBuilder
+    func list() -> some View {
+        ArticlesListView(
             viewModel: ArticlesListViewModel(
-                fetchUseCase: fetchUseCase
-            )
-        ) { article in
-            path.wrappedValue.append(article)
-        }
-        .navigationDestination(for: Article.self) { article in
+                fetchUseCase: fetch))
+    }
+
+    @ViewBuilder
+    func destination(for route: Route) -> some View {
+        switch route {
+        case .detail(let article):
             ArticleDetailView(viewModel: ArticleDetailViewModel(article: article))
         }
-
-        return AnyView(view)
     }
 }
+

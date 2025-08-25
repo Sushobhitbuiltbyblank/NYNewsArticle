@@ -8,14 +8,12 @@
 import SwiftUI
 
 struct ArticlesListView: View {
+    @EnvironmentObject private var coordinator: AppCoordinator // optional if you passed onSelect
     @StateObject var viewModel: ArticlesListViewModel
-    var onSelect: (Article) -> Void
     init(
         viewModel: ArticlesListViewModel,
-        onSelect: @escaping (Article) -> Void
     ) {
         _viewModel = StateObject(wrappedValue: viewModel)
-        self.onSelect = onSelect
     }
 
     var body: some View {
@@ -40,7 +38,7 @@ struct ArticlesListView: View {
         case .loaded(let items):
             List(items, id: \.id) { article in
                 Button {
-                    onSelect(article)
+                    coordinator.push(.detail(article))
                 } label: {
                     ArticleRowView(article: article)
                 }
